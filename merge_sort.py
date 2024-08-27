@@ -50,7 +50,6 @@ def seperate_and_merge(list0):
 	return sorted_list
 
 
-
 def main():
 	list0 = [2,2,36,9,10,236,2,8,25,1000]
 	sorted_list = seperate_and_merge(list0)
